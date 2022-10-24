@@ -19,22 +19,22 @@
 
 <b>Step 2.</b>&nbsp;&nbsp;Implementing the color tracking algorithm
 <br>
-<p align="center"><img src="images%20for%20GitHub/color%20tracking.jpg" width="540px"></p>
+<p align="center"><img src="images%20for%20GitHub/color%20tracking.jpg" width="600px"></p>
 <br>
 
 <b>Step 3.</b>&nbsp;&nbsp;Implementing the backprojection algorithm
 <br>
-<p align="center"><img src="images%20for%20GitHub/backprojection.jpg" width="540px"></p>
+<p align="center"><img src="images%20for%20GitHub/backprojection.jpg" width="600px"></p>
 <br>
 
 <b>Step 4.</b>&nbsp;&nbsp;Implementing the absolute difference algorithm
 <br>
-<p align="center"><img src="images%20for%20GitHub/absolute%20difference.jpg" width="540px"></p>
+<p align="center"><img src="images%20for%20GitHub/absolute%20difference.jpg" width="600px"></p>
 <br>
 
 <b>Step 5.</b>&nbsp;&nbsp;Implementing the optical flow algorithm 
 <br>
-<p align="center"><img src="images%20for%20GitHub/optical%20flow.jpg" width="540px"></p>
+<p align="center"><img src="images%20for%20GitHub/optical%20flow.jpg" width="600px"></p>
 <br>
 
 <b>Step 6.</b>&nbsp;&nbsp;Analyzing the results for different algorithms
